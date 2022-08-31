@@ -1,0 +1,5 @@
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest2(XUNIT)\obj\Debug\net6.0\WebAPITest2(XUNIT).csproj.AssemblyReference.cache
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest2(XUNIT)\obj\Debug\net6.0\WebAPITest2(XUNIT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest2(XUNIT)\obj\Debug\net6.0\WebAPITest2(XUNIT).AssemblyInfoInputs.cache
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest2(XUNIT)\obj\Debug\net6.0\WebAPITest2(XUNIT).AssemblyInfo.cs
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest2(XUNIT)\obj\Debug\net6.0\WebAPITest2(XUNIT).csproj.CoreCompileInputs.cache

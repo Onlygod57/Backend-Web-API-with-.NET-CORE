@@ -1,0 +1,6 @@
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest\obj\Debug\net6.0\WebAPITest.csproj.AssemblyReference.cache
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest\obj\Debug\net6.0\WebAPITest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest\obj\Debug\net6.0\WebAPITest.AssemblyInfoInputs.cache
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest\obj\Debug\net6.0\WebAPITest.AssemblyInfo.cs
+C:\Users\ufukc\Desktop\Görsel Programlama\API_Software\WebAPITest\obj\Debug\net6.0\WebAPITest.csproj.CoreCompileInputs.cache
